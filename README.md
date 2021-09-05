@@ -1,5 +1,4 @@
-### Hi! This is Ashique Bin Iqbal.  
-<a id="myLink" href="https://drive.google.com/file/d/1Etcai89ZPbsT9Uwq1x1YsUU0uoL3S8ko/view?usp=sharing" target="_blank">Resume</a>
+### Hi! This is Ashique Bin Iqbal.  <a href="https://drive.google.com/file/d/1Etcai89ZPbsT9Uwq1x1YsUU0uoL3S8ko/view?usp=sharing" target="_blank">Resume</a>
 
 - 🔭 I have worked in four different industries: Legal,News,Agri and IT
 - 💻 I'm a Full-stack Web Developer with MERN Stack .I'm also competent in Python with data science.
@@ -45,7 +44,7 @@
 
 <br/> <br/> <br/>
 
-![Ashique's github stats](https://github-readme-stats.vercel.app/api?username=ashiquebiniqbal)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashique's github stats](https://github-readme-stats.vercel.app/api?username=ashiquebiniqbal)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyPythonLover1&langs_count=14&hide=php,html,java,objective-c&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/> <br/> -->
