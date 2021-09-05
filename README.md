@@ -1,4 +1,4 @@
-### Hi This is Ashique Bin Iqbal.  
+### Hi! This is Ashique Bin Iqbal.  
 <a id="myLink" href="https://drive.google.com/file/d/1Etcai89ZPbsT9Uwq1x1YsUU0uoL3S8ko/view?usp=sharing" target="_blank">Resume</a>
 
 - 🔭 I have worked in four different industries: Legal,News,Agri and IT
