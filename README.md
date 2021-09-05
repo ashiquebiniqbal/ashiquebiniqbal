@@ -1,4 +1,4 @@
-### Hi This is Ashique Bin Iqbal.  [Resume](https://drive.google.com/file/d/1Etcai89ZPbsT9Uwq1x1YsUU0uoL3S8ko/view?usp=sharing)
+### Hi This is Ashique Bin Iqbal.  [Resume](https://drive.google.com/file/d/1Etcai89ZPbsT9Uwq1x1YsUU0uoL3S8ko/view?usp=sharing target="_blank")
 
 - 🔭 I have worked in four different industries: Legal,News,Agri and IT
 - 💻 I'm a Full-stack Web Developer with MERN Stack .I'm also competent in Python with data science.
