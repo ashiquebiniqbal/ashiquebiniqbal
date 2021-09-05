@@ -1,7 +1,7 @@
-### Hi This is Ashique Bin Iqbal.  [Resume](https://drive.google.com/file/d/1YVgxtyVe5ZKFwg7sA1NHCXeLlzSF5WYJ/view?usp=sharing)
+### Hi This is Ashique Bin Iqbal.  [Resume](https://drive.google.com/file/d/1Etcai89ZPbsT9Uwq1x1YsUU0uoL3S8ko/view?usp=sharing)
 
 - 🔭 I have worked in four different industries: Legal,News,Agri and IT
-- 💻 I'm a Full-stack Web Developer with ReactJS, Node.js, MongDB .I'm also competent in Python with data science.
+- 💻 I'm a Full-stack Web Developer with MERN Stack .I'm also competent in Python with data science.
 - ❤️ I have a great enthusiasm in AI.
 - 🔌 My GOAL: Become a techpreneur.
 - 📚 I am a book worm .😃
@@ -44,7 +44,7 @@
 
 <br/> <br/> <br/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CrazyPythonLover1&show_icons=true&theme=radical)
+![Ashique's github stats](https://github-readme-stats.vercel.app/api?username=CrazyPythonLover1&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyPythonLover1&langs_count=14&hide=php,html,java,objective-c&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/> <br/>
 <!-- ![Profile views](https://gpvc.arturio.dev/CrazyPythonLover1)   -->
