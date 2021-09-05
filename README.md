@@ -1,7 +1,7 @@
 ### Hi! This is Ashique Bin Iqbal.  <a href="https://drive.google.com/file/d/1Etcai89ZPbsT9Uwq1x1YsUU0uoL3S8ko/view?usp=sharing" target="_blank">Resume</a>
 
 - 🔭 I have worked in four different industries: Legal,News,Agri and IT
-- 💻 I'm a Full-stack Web Developer with MERN Stack .I'm also competent in Python with data science.
+- 💻 I'm a Full-stack Web Developer in MERN Stack .I'm also competent in Python with data science.
 - ❤️ I have a great enthusiasm in AI.
 - 🔌 My GOAL: Become a techpreneur.
 - 📚 I am a book worm .😃
@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ashique-bin-iqbal/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>](https://www.linkedin.com/in/ashique-bin-iqbal/)
 <br />
 
 ### Languages and Tools:
