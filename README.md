@@ -3,7 +3,7 @@
 - 🔭 I have worked in four different industries: Legal,News,Agri and IT
 - 💻 I'm a Full-stack Web Developer in MERN Stack .I'm also competent in Python with data science.
 - ❤️ I have a great enthusiasm in AI.
-- 🔌 My GOAL: Become a techpreneur.
+- 🔌 My GOAL: Become a technopreneur.
 - 📚 I am a book worm .😃
 - 👯 I am open for any philantropic open source project.
 - 💬 Ask me about --- Anything
