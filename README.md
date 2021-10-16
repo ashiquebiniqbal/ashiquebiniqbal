@@ -22,8 +22,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Deno" width="40px" src="https://camo.githubusercontent.com/b68ee2443882c03a011ea49e1b6bcbe7bd994e1da6a980291557a3fd89348322/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d36342f707974686f6e2d322d3232363035312e706e67" />
+<!--<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />-->
+<!--<img align="left" alt="Deno" width="40px" src="https://camo.githubusercontent.com/b68ee2443882c03a011ea49e1b6bcbe7bd994e1da6a980291557a3fd89348322/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d36342f707974686f6e2d322d3232363035312e706e67" />-->
 <img align="left" alt="Solidity" width="26px" color="#363636" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/solidity.svg" />
 
 <img align="left" alt="Deno" width="40px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/react/react.png" />
@@ -48,6 +48,6 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyPythonLover1&langs_count=14&hide=php,html,java,objective-c&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/> <br/> -->
-<!-- ![Profile views](https://gpvc.arturio.dev/CrazyPythonLover1)   -->
+<!- ![Profile views](https://gpvc.arturio.dev/CrazyPythonLover1)   -->
 
 
