@@ -46,7 +46,7 @@
 
 [![Ashique's github stats](https://github-readme-stats.vercel.app/api?username=ashiquebiniqbal)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyPythonLover1&langs_count=14&hide=php,html,java,objective-c&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiquebiniqbal1&langs_count=14&hide=php,html,java,objective-c&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/> <br/> -->
 ![Profile views](https://gpvc.arturio.dev/CrazyPythonLover1)   
 
