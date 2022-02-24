@@ -1,8 +1,10 @@
-### Hi! This is Ashique Bin Iqbal.  <a href="https://drive.google.com/file/d/1Etcai89ZPbsT9Uwq1x1YsUU0uoL3S8ko/view?usp=sharing" target="_blank">Resume</a>
+### Hi! This is Ashique Bin Iqbal.  <a href="https://drive.google.com/file/d/1aClQHYfREy_nebBPLqeNbntelIr2uPSE/view?usp=sharing" target="_blank">Resume</a>
 
 - 🔭 I have worked in four different industries: Legal,News,Agri and IT
 - 💻 I'm a Full-stack Web Developer in MERN Stack .I'm also competent in Python with data science.
 - ❤️ I have a great enthusiasm in AI.
+- I am an Educator , love to teach web/app development etc.
+- Specilization: Blockchain 
 - 🔌 My GOAL: Become a technopreneur.
 - 📚 I am a book worm .😃
 - 👯 I am open for any philantropic open source project.
