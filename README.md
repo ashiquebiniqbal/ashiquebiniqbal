@@ -31,11 +31,10 @@
 <img align="left" alt="Node.js" width="35px" src="https://camo.githubusercontent.com/a7a5fd3fa7a8c0c854279b31bcbc94d54862bef84643802a81501670d3f95901/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d36342f6e6f64652d6a732d313137343932352e706e67" />
 <img align="left" alt="Express.js" width="35px" color="#000000" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg" /> 
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" /> 
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"/>
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="40px" src="https://camo.githubusercontent.com/c59003eacd06654b84692765cc070b03f6a33b86fe8e3f2c21deecbc5e0b95f7/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d36342f6d7973716c2d31382d313137343933382e706e67" />
 <img align="left" alt="MongoDB" width="40px" color="#47A248" style="color:#47A248" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" />
-
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
 
