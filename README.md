@@ -27,7 +27,7 @@
 <img align="left" alt="Deno" width="40px" src="https://camo.githubusercontent.com/b68ee2443882c03a011ea49e1b6bcbe7bd994e1da6a980291557a3fd89348322/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d36342f707974686f6e2d322d3232363035312e706e67" />
 <img align="left" alt="Solidity" width="26px" color="#363636" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/solidity.svg" />
 <img align="left" alt="Deno" width="40px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/react/react.png" />
-<img align="left" alt="Django" width="35px" color="#092E20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/django.svg" />-->
+<img align="left" alt="Django" width="35px" color="#092E20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/django.svg" />
 <img align="left" alt="Node.js" width="35px" src="https://camo.githubusercontent.com/a7a5fd3fa7a8c0c854279b31bcbc94d54862bef84643802a81501670d3f95901/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d36342f6e6f64652d6a732d313137343932352e706e67" />
 <img align="left" alt="Express.js" width="35px" color="#000000" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg" /> 
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" /> 
