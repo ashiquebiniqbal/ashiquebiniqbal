@@ -1,6 +1,6 @@
 ### Hi! This is Ashique Bin Iqbal.  <a href="https://drive.google.com/file/d/1uH-E8-uDxCwl-qx5cPTqWG6y_xSxNRHL/view?usp=sharing" target="_blank">>>My Resume</a>
 
-## My Portfolio <a href="https://portfolio-brown-one-42.vercel.app/" target="_blank">>>Click me</a>
+## My Portfolio <a href="https://portfolio-ashiquebiniqbal.vercel.app" target="_blank">>>Click me</a>
 - 🔭 I have worked in four different industries: Legal,News,Agri and IT
 - 💻 I love coding in Python with special focus in data science/ML. I'm also competent in Full-stack Web Development (MERN Stack) .
 - ❤️ I have a great enthusiasm in AI.
