@@ -1,11 +1,11 @@
-### Hi! This is Ashique Bin Iqbal.  <a href="https://drive.google.com/file/d/1H6zYDmTe7ci6G4mo9Q1KFlWldSMXrCyh/view?usp=sharing" target="_blank">>>My Resume</a>
+### Hi! This is Ashique Bin Iqbal.  <a href="https://drive.google.com/file/d/1YHvIpEjb9opBxGd2eFiLRWRu0I29dYaV/view?usp=sharing" target="_blank">>>My Resume</a>
 
 ## My Portfolio <a href="https://portfolio-ashiquebiniqbal.vercel.app" target="_blank">>>Click me</a>
 - 🔭 I have worked in four different industries: Legal,News,Agri and IT
 - 💻 I love coding in Python with special focus in data science/ML. I'm also competent in Full-stack Web Development (MERN Stack) .
 - ❤️ I have a great enthusiasm in AI.
 - I am an Educator , love to teach web/app development etc.
-- Specilization: Blockchain ,AI/ML
+- Specilization: Web dev ,AI/ML
 - 🔌 My GOAL: Become a technopreneur.
 - 📚 I am a book worm .😃
 - 👯 I am open for any philantropic open source project.
