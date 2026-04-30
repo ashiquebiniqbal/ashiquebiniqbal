@@ -107,8 +107,8 @@ I focus on creating **high-impact digital products** that combine **technology, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashiquebiniqbal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiquebiniqbal&theme=tokyonight" />
 </p>
 
 ---
