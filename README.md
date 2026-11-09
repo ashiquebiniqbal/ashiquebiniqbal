@@ -54,7 +54,7 @@ I focus on creating **high-impact digital products** that combine **technology, 
 - Responsive & Mobile-first Design  
 
 ### ⚙️ Backend
-- Node.js / Express  
+- Node.js / Express, Django
 - REST APIs & Scalable Backend Systems  
 - Authentication & Security  
 
@@ -65,7 +65,7 @@ I focus on creating **high-impact digital products** that combine **technology, 
 ### ☁️ Tools & Infrastructure
 - Docker  
 - Firebase  
-- AWS (Foundations)  
+- AWS , GCP , Azure
 - Git & GitHub  
 
 ---
